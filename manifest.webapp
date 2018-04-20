@@ -2,30 +2,29 @@
   "version": "1.0.0",
   "name": "David Hartsough",
   "launch_path": "/index.html",
-  "description": "David Hartsough is a web and app developer who loves people and ideas.",
+  "description":
+    "David Hartsough is a happy human who loves discussing the philosophy and psychology of flourishing, connectedness, and identity.",
   "icons": {
-    "16": "assets/images/touch/favicon/favicon-16x16.png",
-    "32": "assets/images/touch/favicon/favicon-32x32.png",
-    "48": "assets/images/touch/android/android-chrome-48x48.png",
-    "96": "assets/images/touch/favicon/favicon-96x96.png",
-    "128": "assets/images/touch/firefox/icon-128x128.png",
-    "192": "assets/images/touch/android/android-chrome-192x192.png",
-    "512": "assets/images/touch/firefox/icon-512x512.png"
+    "16": "/favicon/favicon-16x16.png",
+    "32": "/favicon/favicon-32x32.png",
+    "48": "/android-chrome-48x48.png",
+    "96": "/favicon/favicon-96x96.png",
+    "128": "/firefox/icon-128x128.png",
+    "192": "/android-chrome-192x192.png",
+    "512": "/icon-512x512.png"
   },
   "developer": {
     "name": "David Hartsough",
     "url": "http://davidhartsough.com"
   },
-  "installs_allowed_from": [
-    "*"
-  ],
+  "installs_allowed_from": ["*"],
   "default_locale": "en",
-  "permissions": {
-  },
+  "permissions": {},
   "locales": {
     "en": {
       "name": "David Hartsough",
-      "description": "David Hartsough is a web and app developer who loves people and ideas."
+      "description":
+        "David Hartsough is a happy human who loves discussing the philosophy and psychology of flourishing, connectedness, and identity."
     }
   }
 }
